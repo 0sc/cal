@@ -27,6 +27,11 @@
     height: 570px;
     overflow: hidden;
   }
+
+  .title {
+    text-align: center;
+    padding: 1em;
+  }
   
   .header {
     height: 50px;
