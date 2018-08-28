@@ -325,7 +325,7 @@
 }();
 
 !function() {
-  fetch("https://gist.githubusercontent.com/0sc/6b909cc34d01ef7ed73a05a9e9dca5ce/raw/d79b6b6e806b81e59e13b87ca40413fa534eec8a/del.json")
+  fetch("./src/events.json")
     .then((resp) => resp.json())
     .then(function(data){
       var calendar = new Calendar('#calendar', data);
