@@ -1,0 +1,20 @@
+[
+  { 
+    "eventName": "Build day pitch", 
+    "team": "General", 
+    "time": "9am - 10pm",
+    "date": "08-10-2018" 
+  },
+  { 
+    "eventName": "The Tech woman in the modern workspace", 
+    "team": "Women in Tech", 
+    "time": "10am - 2pm",
+    "date": "08-10-2018" 
+  },
+  { 
+    "eventName": "Design for beginners", 
+    "team": "Design Team", 
+    "time": "11am - 3pm",
+    "date": "08-11-2018" 
+  }
+]
